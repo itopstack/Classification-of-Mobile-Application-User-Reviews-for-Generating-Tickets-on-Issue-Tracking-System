@@ -1,0 +1,88 @@
+0.808405 , Feature/word2vec + CV + stopwords_removal + LinearSVC
+0.800315 , Feature/word2vec + CV + stopwords_removal_lemmatization + LinearSVC
+0.793837 , Feature/word2vec + CV + lemmatized_comment + LinearSVC
+0.792158 , Feature/word2vec + CV + stopwords_removal + ExtraTreesClassifier
+0.790506 , Feature/word2vec + CV + stopwords_removal_lemmatization + ExtraTreesClassifier
+0.787307 , Feature/word2vec + CV + stopwords_removal_lemmatization + LogisticRegression
+0.784068 , Feature/word2vec + CV + stopwords_removal + LogisticRegression
+0.784068 , Feature/word2vec + CV + lemmatized_comment + LogisticRegression
+0.779203 , Feature/word2vec + CV + lemmatized_comment + ExtraTreesClassifier
+0.775977 , Feature/word2vec + CV + comment + ExtraTreesClassifier
+0.775938 , Feature/word2vec + CV + comment + LogisticRegression
+0.772973 , Feature/word2vec + stopwords_removal_lemmatization + ExtraTreesClassifier
+0.771060 , Feature/word2vec + CV + stopwords_removal + VotingClassifier
+0.767568 , Feature/word2vec + lemmatized_comment + LinearSVC
+0.767568 , Feature/word2vec + lemmatized_comment + AdaBoostClassifier
+0.766208 , Feature/word2vec + CV + comment + LinearSVC
+0.764582 , Feature/word2vec + CV + stopwords_removal_lemmatization + VotingClassifier
+0.762162 , Feature/word2vec + stopwords_removal + LogisticRegression
+0.756757 , Feature/word2vec + stopwords_removal + LinearSVC
+0.756757 , Feature/word2vec + stopwords_removal_lemmatization + LinearSVC
+0.756757 , Feature/word2vec + stopwords_removal_lemmatization + LogisticRegression
+0.756452 , Feature/word2vec + CV + stopwords_removal + GradientBoostingClassifier
+0.748374 , Feature/word2vec + CV + lemmatized_comment + AdaBoostClassifier
+0.748308 , Feature/word2vec + CV + stopwords_removal_lemmatization + GradientBoostingClassifier
+0.745946 , Feature/word2vec + stopwords_removal + ExtraTreesClassifier
+0.745946 , Feature/word2vec + stopwords_removal + AdaBoostClassifier
+0.743535 , Feature/word2vec + CV + lemmatized_comment + VotingClassifier
+0.741870 , Feature/word2vec + CV + stopwords_removal + GaussianNB
+0.741804 , Feature/word2vec + CV + stopwords_removal_lemmatization + AdaBoostClassifier
+0.740541 , Feature/word2vec + stopwords_removal + VotingClassifier
+0.738631 , Feature/word2vec + CV + stopwords_removal + BernoulliNB
+0.735366 , Feature/word2vec + CV + stopwords_removal_lemmatization + BernoulliNB
+0.735340 , Feature/word2vec + CV + comment + GradientBoostingClassifier
+0.735135 , Feature/word2vec + comment + LinearSVC
+0.735135 , Feature/word2vec + lemmatized_comment + ExtraTreesClassifier
+0.735135 , Feature/word2vec + stopwords_removal_lemmatization + VotingClassifier
+0.732127 , Feature/word2vec + CV + stopwords_removal_lemmatization + GaussianNB
+0.730527 , Feature/word2vec + CV + comment + VotingClassifier
+0.729730 , Feature/word2vec + stopwords_removal + GradientBoostingClassifier
+0.729730 , Feature/word2vec + stopwords_removal_lemmatization + GradientBoostingClassifier
+0.728927 , Feature/word2vec + CV + stopwords_removal + RandomForestClassifier
+0.727236 , Feature/word2vec + CV + stopwords_removal_lemmatization + RandomForestClassifier
+0.724324 , Feature/word2vec + comment + ExtraTreesClassifier
+0.722397 , Feature/word2vec + CV + lemmatized_comment + BernoulliNB
+0.722384 , Feature/word2vec + CV + stopwords_removal + AdaBoostClassifier
+0.718919 , Feature/word2vec + lemmatized_comment + LogisticRegression
+0.718919 , Feature/word2vec + stopwords_removal + GaussianNB
+0.715893 , Feature/word2vec + CV + stopwords_removal + DecisionTreeClassifier
+0.713514 , Feature/word2vec + stopwords_removal + RandomForestClassifier
+0.713514 , Feature/word2vec + stopwords_removal_lemmatization + GaussianNB
+0.712667 , Feature/word2vec + CV + lemmatized_comment + GradientBoostingClassifier
+0.709415 , Feature/word2vec + CV + stopwords_removal_lemmatization + KNeighborsClassifier
+0.708108 , Feature/word2vec + comment + GradientBoostingClassifier
+0.708108 , Feature/word2vec + lemmatized_comment + GradientBoostingClassifier
+0.708108 , Feature/word2vec + stopwords_removal + DecisionTreeClassifier
+0.708108 , Feature/word2vec + stopwords_removal_lemmatization + BernoulliNB
+0.708108 , Feature/word2vec + stopwords_removal_lemmatization + DecisionTreeClassifier
+0.708108 , Feature/word2vec + stopwords_removal_lemmatization + RandomForestClassifier
+0.708108 , Feature/word2vec + stopwords_removal_lemmatization + AdaBoostClassifier
+0.706202 , Feature/word2vec + CV + lemmatized_comment + RandomForestClassifier
+0.704550 , Feature/word2vec + CV + comment + AdaBoostClassifier
+0.704524 , Feature/word2vec + CV + lemmatized_comment + GaussianNB
+0.702937 , Feature/word2vec + CV + stopwords_removal + KNeighborsClassifier
+0.702924 , Feature/word2vec + CV + comment + GaussianNB
+0.702703 , Feature/word2vec + comment + LogisticRegression
+0.698085 , Feature/word2vec + CV + lemmatized_comment + KNeighborsClassifier
+0.696407 , Feature/word2vec + CV + comment + BernoulliNB
+0.693089 , Feature/word2vec + CV + comment + RandomForestClassifier
+0.691892 , Feature/word2vec + stopwords_removal + BernoulliNB
+0.686664 , Feature/word2vec + CV + comment + KNeighborsClassifier
+0.686486 , Feature/word2vec + lemmatized_comment + VotingClassifier
+0.681081 , Feature/word2vec + lemmatized_comment + DecisionTreeClassifier
+0.681081 , Feature/word2vec + stopwords_removal + KNeighborsClassifier
+0.678639 , Feature/word2vec + CV + lemmatized_comment + DecisionTreeClassifier
+0.675676 , Feature/word2vec + comment + RandomForestClassifier
+0.675676 , Feature/word2vec + lemmatized_comment + BernoulliNB
+0.675676 , Feature/word2vec + stopwords_removal_lemmatization + KNeighborsClassifier
+0.670270 , Feature/word2vec + comment + VotingClassifier
+0.670270 , Feature/word2vec + comment + AdaBoostClassifier
+0.670270 , Feature/word2vec + lemmatized_comment + RandomForestClassifier
+0.664865 , Feature/word2vec + comment + KNeighborsClassifier
+0.663900 , Feature/word2vec + CV + stopwords_removal_lemmatization + DecisionTreeClassifier
+0.659087 , Feature/word2vec + CV + comment + DecisionTreeClassifier
+0.654054 , Feature/word2vec + lemmatized_comment + GaussianNB
+0.648649 , Feature/word2vec + comment + GaussianNB
+0.643243 , Feature/word2vec + lemmatized_comment + KNeighborsClassifier
+0.637838 , Feature/word2vec + comment + BernoulliNB
+0.616216 , Feature/word2vec + comment + DecisionTreeClassifier

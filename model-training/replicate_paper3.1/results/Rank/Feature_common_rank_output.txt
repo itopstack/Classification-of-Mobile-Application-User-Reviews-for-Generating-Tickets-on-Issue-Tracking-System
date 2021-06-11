@@ -1,0 +1,480 @@
+0.823026 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + ExtraTreesClassifier
+0.816654 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + CV + GradientBoostingClassifier
+0.816654 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GradientBoostingClassifier
+0.815028 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + CV + GradientBoostingClassifier
+0.815028 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GradientBoostingClassifier
+0.814857 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + ExtraTreesClassifier
+0.810149 , Feature/['rating', 'length_words'] + CV + GradientBoostingClassifier
+0.810149 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GradientBoostingClassifier
+0.810071 , Feature/['stopwords_removal'] + CV + ExtraTreesClassifier
+0.810031 , Feature/['comment', 'rating', 'sentiScore'] + CV + VotingClassifier
+0.810018 , Feature/['comment', 'rating', 'sentiScore'] + CV + ExtraTreesClassifier
+0.809992 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + ExtraTreesClassifier
+0.808458 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + ExtraTreesClassifier
+0.806897 , Feature/['rating', 'length_words'] + CV + AdaBoostClassifier
+0.806897 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + AdaBoostClassifier
+0.805167 , Feature/['stopwords_removal_lemmatization'] + CV + LogisticRegression
+0.805167 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LogisticRegression
+0.805140 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + GradientBoostingClassifier
+0.805140 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GradientBoostingClassifier
+0.805114 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + LogisticRegression
+0.805114 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LogisticRegression
+0.803554 , Feature/['lemmatized_comment'] + CV + ExtraTreesClassifier
+0.803554 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + ExtraTreesClassifier
+0.801915 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + VotingClassifier
+0.800341 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + ExtraTreesClassifier
+0.800302 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + ExtraTreesClassifier
+0.800288 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GradientBoostingClassifier
+0.798715 , Feature/['comment'] + CV + ExtraTreesClassifier
+0.798676 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + VotingClassifier
+0.798662 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + GradientBoostingClassifier
+0.797089 , Feature/['comment', 'rating', 'sentiScore'] + CV + GradientBoostingClassifier
+0.797089 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GradientBoostingClassifier
+0.793811 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + ExtraTreesClassifier
+0.792224 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + ExtraTreesClassifier
+0.792158 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + VotingClassifier
+0.792079 , Feature/['stopwords_removal_lemmatization'] + ExtraTreesClassifier
+0.790624 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + CV + AdaBoostClassifier
+0.790624 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + AdaBoostClassifier
+0.790585 , Feature/['stopwords_removal_lemmatization'] + CV + VotingClassifier
+0.790506 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + VotingClassifier
+0.787307 , Feature/['lemmatized_comment'] + CV + LogisticRegression
+0.787307 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + CV + KNeighborsClassifier
+0.787307 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LogisticRegression
+0.787307 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + KNeighborsClassifier
+0.787267 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + CV + RandomForestClassifier
+0.787129 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + ExtraTreesClassifier
+0.787129 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + ExtraTreesClassifier
+0.785707 , Feature/['stopwords_removal_lemmatization'] + CV + ExtraTreesClassifier
+0.785667 , Feature/['stopwords_removal'] + CV + LogisticRegression
+0.785667 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LogisticRegression
+0.785641 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + VotingClassifier
+0.785615 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + RandomForestClassifier
+0.784159 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + CV + AdaBoostClassifier
+0.784159 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + AdaBoostClassifier
+0.784055 , Feature/['lemmatized_comment'] + CV + MultinomialNB
+0.784055 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + LinearSVC
+0.784055 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + MultinomialNB
+0.784055 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LinearSVC
+0.782442 , Feature/['comment'] + CV + MultinomialNB
+0.782442 , Feature/['stopwords_removal_lemmatization'] + CV + LinearSVC
+0.782442 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + MultinomialNB
+0.782442 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LinearSVC
+0.782429 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + RandomForestClassifier
+0.782402 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + DecisionTreeClassifier
+0.782178 , Feature/['stopwords_removal'] + ExtraTreesClassifier
+0.782178 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + ExtraTreesClassifier
+0.782178 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + ExtraTreesClassifier
+0.780842 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + RandomForestClassifier
+0.780829 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + VotingClassifier
+0.780803 , Feature/['comment', 'rating', 'sentiScore'] + CV + DecisionTreeClassifier
+0.779295 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + RandomForestClassifier
+0.779229 , Feature/['comment', 'rating', 'sentiScore'] + CV + AdaBoostClassifier
+0.779229 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + AdaBoostClassifier
+0.779150 , Feature/['stopwords_removal_lemmatization'] + CV + MultinomialNB
+0.777603 , Feature/['lemmatized_comment'] + CV + VotingClassifier
+0.777577 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + ExtraTreesClassifier
+0.777524 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + MultinomialNB
+0.777228 , Feature/['lemmatized_comment'] + ExtraTreesClassifier
+0.777228 , Feature/['stopwords_removal_lemmatization'] + VotingClassifier
+0.777228 , Feature/['comment', 'rating', 'sentiScore'] + ExtraTreesClassifier
+0.777228 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + ExtraTreesClassifier
+0.777228 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + VotingClassifier
+0.776029 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + CV + RandomForestClassifier
+0.775951 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + VotingClassifier
+0.775924 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + CV + ExtraTreesClassifier
+0.775924 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + ExtraTreesClassifier
+0.775898 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + AdaBoostClassifier
+0.775898 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + AdaBoostClassifier
+0.774390 , Feature/['rating', 'length_words'] + CV + KNeighborsClassifier
+0.774390 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + KNeighborsClassifier
+0.774364 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + CV + ExtraTreesClassifier
+0.774351 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + VotingClassifier
+0.774325 , Feature/['stopwords_removal'] + CV + VotingClassifier
+0.772738 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + RandomForestClassifier
+0.772699 , Feature/['stopwords_removal'] + CV + LinearSVC
+0.772699 , Feature/['comment', 'rating', 'sentiScore'] + CV + LogisticRegression
+0.772699 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LinearSVC
+0.772699 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LogisticRegression
+0.772686 , Feature/['comment'] + CV + VotingClassifier
+0.772686 , Feature/['stopwords_removal_lemmatization'] + CV + RandomForestClassifier
+0.772686 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + LogisticRegression
+0.772686 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LogisticRegression
+0.772277 , Feature/['comment'] + BernoulliNB
+0.772277 , Feature/['comment', 'rating', 'sentiScore'] + BernoulliNB
+0.772277 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + BernoulliNB
+0.772277 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + ExtraTreesClassifier
+0.772277 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + BernoulliNB
+0.771125 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + DecisionTreeClassifier
+0.771112 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + DecisionTreeClassifier
+0.771099 , Feature/['lemmatized_comment'] + CV + LinearSVC
+0.771099 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LinearSVC
+0.771073 , Feature/['comment'] + CV + LogisticRegression
+0.771073 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LogisticRegression
+0.771046 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + DecisionTreeClassifier
+0.769486 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + RandomForestClassifier
+0.769473 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + RandomForestClassifier
+0.769473 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + VotingClassifier
+0.767834 , Feature/['lemmatized_comment'] + CV + RandomForestClassifier
+0.767327 , Feature/['comment'] + ExtraTreesClassifier
+0.767327 , Feature/['lemmatized_comment'] + VotingClassifier
+0.767327 , Feature/['stopwords_removal_lemmatization'] + BernoulliNB
+0.767327 , Feature/['stopwords_removal_lemmatization'] + RandomForestClassifier
+0.767327 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + BernoulliNB
+0.767327 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + RandomForestClassifier
+0.767327 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + VotingClassifier
+0.767327 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + BernoulliNB
+0.767327 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + RandomForestClassifier
+0.767327 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + ExtraTreesClassifier
+0.767327 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + BernoulliNB
+0.767327 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + ExtraTreesClassifier
+0.766208 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + LinearSVC
+0.766208 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LinearSVC
+0.764608 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + AdaBoostClassifier
+0.764608 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + AdaBoostClassifier
+0.764595 , Feature/['stopwords_removal'] + CV + MultinomialNB
+0.764569 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + RandomForestClassifier
+0.763008 , Feature/['rating', 'length_words'] + CV + RandomForestClassifier
+0.762982 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + MultinomialNB
+0.762943 , Feature/['stopwords_removal'] + CV + RandomForestClassifier
+0.762376 , Feature/['lemmatized_comment'] + BernoulliNB
+0.762376 , Feature/['stopwords_removal_lemmatization'] + LinearSVC
+0.762376 , Feature/['stopwords_removal_lemmatization'] + LogisticRegression
+0.762376 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + BernoulliNB
+0.762376 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + BernoulliNB
+0.762376 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + RandomForestClassifier
+0.762376 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + LinearSVC
+0.762376 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + LogisticRegression
+0.762376 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + ExtraTreesClassifier
+0.762376 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + BernoulliNB
+0.761356 , Feature/['comment', 'rating', 'sentiScore'] + CV + LinearSVC
+0.761356 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + RandomForestClassifier
+0.761356 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LinearSVC
+0.761330 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + MultinomialNB
+0.761330 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + MultinomialNB
+0.759743 , Feature/['comment'] + CV + RandomForestClassifier
+0.759717 , Feature/['stopwords_removal_lemmatization'] + CV + AdaBoostClassifier
+0.759717 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + AdaBoostClassifier
+0.759704 , Feature/['rating', 'length_words'] + CV + DecisionTreeClassifier
+0.758104 , Feature/['rating', 'length_words'] + CV + ExtraTreesClassifier
+0.758091 , Feature/['comment'] + CV + LinearSVC
+0.758091 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LinearSVC
+0.758091 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + DecisionTreeClassifier
+0.758038 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + RandomForestClassifier
+0.756517 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + DecisionTreeClassifier
+0.756504 , Feature/['comment', 'rating', 'sentiScore'] + CV + GaussianNB
+0.756504 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + GaussianNB
+0.756504 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GaussianNB
+0.756504 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GaussianNB
+0.754852 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + MultinomialNB
+0.754852 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + MultinomialNB
+0.754799 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + CV + KNeighborsClassifier
+0.754799 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + KNeighborsClassifier
+0.753278 , Feature/['comment'] + CV + GaussianNB
+0.753278 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GaussianNB
+0.753252 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + ExtraTreesClassifier
+0.752475 , Feature/['comment'] + VotingClassifier
+0.752475 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + VotingClassifier
+0.751665 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + RandomForestClassifier
+0.751626 , Feature/['comment', 'rating', 'sentiScore'] + CV + RandomForestClassifier
+0.747525 , Feature/['comment'] + RandomForestClassifier
+0.747525 , Feature/['lemmatized_comment'] + LogisticRegression
+0.747525 , Feature/['stopwords_removal'] + BernoulliNB
+0.747525 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + VotingClassifier
+0.747525 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + LinearSVC
+0.747525 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + VotingClassifier
+0.747525 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + LogisticRegression
+0.747525 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + BernoulliNB
+0.747525 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + LinearSVC
+0.746774 , Feature/['comment', 'rating', 'sentiScore'] + CV + MultinomialNB
+0.746774 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + MultinomialNB
+0.743509 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + CV + DecisionTreeClassifier
+0.743496 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + DecisionTreeClassifier
+0.743430 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + RandomForestClassifier
+0.742574 , Feature/['comment'] + LogisticRegression
+0.742574 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + RandomForestClassifier
+0.742574 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + LogisticRegression
+0.741870 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + CV + DecisionTreeClassifier
+0.738644 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + DecisionTreeClassifier
+0.737624 , Feature/['comment'] + GaussianNB
+0.737624 , Feature/['stopwords_removal'] + VotingClassifier
+0.737624 , Feature/['comment', 'rating', 'sentiScore'] + GaussianNB
+0.737624 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + GaussianNB
+0.737624 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + GaussianNB
+0.737624 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + VotingClassifier
+0.737624 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + GaussianNB
+0.737624 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + GaussianNB
+0.735405 , Feature/['stopwords_removal'] + CV + GaussianNB
+0.735405 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GaussianNB
+0.732673 , Feature/['lemmatized_comment'] + GaussianNB
+0.732673 , Feature/['lemmatized_comment'] + LinearSVC
+0.732673 , Feature/['stopwords_removal'] + RandomForestClassifier
+0.732673 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + GaussianNB
+0.732673 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + LinearSVC
+0.732673 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + RandomForestClassifier
+0.732673 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + RandomForestClassifier
+0.730514 , Feature/['stopwords_removal_lemmatization'] + CV + GradientBoostingClassifier
+0.728954 , Feature/['lemmatized_comment'] + CV + GaussianNB
+0.728954 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GaussianNB
+0.728901 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GradientBoostingClassifier
+0.727723 , Feature/['stopwords_removal'] + LogisticRegression
+0.727723 , Feature/['stopwords_removal_lemmatization'] + AdaBoostClassifier
+0.727723 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + LinearSVC
+0.727723 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + VotingClassifier
+0.727723 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + LogisticRegression
+0.727723 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + AdaBoostClassifier
+0.727723 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + LinearSVC
+0.727275 , Feature/['lemmatized_comment'] + CV + AdaBoostClassifier
+0.727275 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + AdaBoostClassifier
+0.727262 , Feature/['lemmatized_comment'] + CV + GradientBoostingClassifier
+0.725636 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GradientBoostingClassifier
+0.725570 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + AdaBoostClassifier
+0.724023 , Feature/['comment'] + CV + AdaBoostClassifier
+0.724023 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + AdaBoostClassifier
+0.723958 , Feature/['stopwords_removal'] + CV + AdaBoostClassifier
+0.722772 , Feature/['comment'] + LinearSVC
+0.722772 , Feature/['lemmatized_comment'] + RandomForestClassifier
+0.722772 , Feature/['stopwords_removal_lemmatization'] + GradientBoostingClassifier
+0.722772 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + RandomForestClassifier
+0.722772 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + LinearSVC
+0.722772 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + RandomForestClassifier
+0.722772 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + GradientBoostingClassifier
+0.722423 , Feature/['stopwords_removal'] + CV + GradientBoostingClassifier
+0.722423 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GradientBoostingClassifier
+0.719211 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + GaussianNB
+0.719211 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GaussianNB
+0.719171 , Feature/['comment'] + CV + GradientBoostingClassifier
+0.719171 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GradientBoostingClassifier
+0.719132 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + BernoulliNB
+0.719132 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + BernoulliNB
+0.717822 , Feature/['comment'] + AdaBoostClassifier
+0.717822 , Feature/['lemmatized_comment'] + GradientBoostingClassifier
+0.717822 , Feature/['comment', 'rating', 'sentiScore'] + LinearSVC
+0.717822 , Feature/['comment', 'rating', 'sentiScore'] + VotingClassifier
+0.717822 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + AdaBoostClassifier
+0.717822 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + GradientBoostingClassifier
+0.717822 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + LinearSVC
+0.717822 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + VotingClassifier
+0.715880 , Feature/['comment'] + CV + BernoulliNB
+0.715880 , Feature/['comment', 'rating', 'sentiScore'] + CV + BernoulliNB
+0.715880 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + BernoulliNB
+0.715880 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + BernoulliNB
+0.712871 , Feature/['stopwords_removal'] + GaussianNB
+0.712871 , Feature/['stopwords_removal'] + GradientBoostingClassifier
+0.712871 , Feature/['stopwords_removal_lemmatization'] + DecisionTreeClassifier
+0.712871 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + RandomForestClassifier
+0.712871 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + GaussianNB
+0.712871 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + GradientBoostingClassifier
+0.712733 , Feature/['stopwords_removal_lemmatization'] + CV + GaussianNB
+0.712733 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GaussianNB
+0.712628 , Feature/['lemmatized_comment'] + CV + BernoulliNB
+0.712628 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + BernoulliNB
+0.711002 , Feature/['stopwords_removal_lemmatization'] + CV + BernoulliNB
+0.711002 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + BernoulliNB
+0.707921 , Feature/['stopwords_removal'] + LinearSVC
+0.707921 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + LogisticRegression
+0.707921 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + LinearSVC
+0.707921 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + LogisticRegression
+0.707776 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + BernoulliNB
+0.707776 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + BernoulliNB
+0.704524 , Feature/['stopwords_removal'] + CV + BernoulliNB
+0.704524 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + BernoulliNB
+0.702970 , Feature/['comment'] + GradientBoostingClassifier
+0.702970 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + BernoulliNB
+0.702970 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + BernoulliNB
+0.702970 , Feature/['comment', 'rating', 'sentiScore'] + DecisionTreeClassifier
+0.702970 , Feature/['comment', 'rating', 'sentiScore'] + RandomForestClassifier
+0.702970 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + GradientBoostingClassifier
+0.702970 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + DecisionTreeClassifier
+0.702970 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + BernoulliNB
+0.702970 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + BernoulliNB
+0.698020 , Feature/['lemmatized_comment'] + DecisionTreeClassifier
+0.698020 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + ExtraTreesClassifier
+0.698020 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + MultinomialNB
+0.698020 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + GradientBoostingClassifier
+0.698020 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + VotingClassifier
+0.698020 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + MultinomialNB
+0.698020 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + GradientBoostingClassifier
+0.696433 , Feature/['stopwords_removal'] + CV + DecisionTreeClassifier
+0.693069 , Feature/['stopwords_removal_lemmatization'] + GaussianNB
+0.693069 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + RandomForestClassifier
+0.693069 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + GaussianNB
+0.693069 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + DecisionTreeClassifier
+0.693069 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + GaussianNB
+0.693069 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + GaussianNB
+0.693069 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + RandomForestClassifier
+0.693069 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + ExtraTreesClassifier
+0.688119 , Feature/['comment'] + DecisionTreeClassifier
+0.688119 , Feature/['stopwords_removal'] + AdaBoostClassifier
+0.688119 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + AdaBoostClassifier
+0.688119 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + RandomForestClassifier
+0.688119 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + MultinomialNB
+0.688119 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + LogisticRegression
+0.688119 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + DecisionTreeClassifier
+0.688119 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + AdaBoostClassifier
+0.688119 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + DecisionTreeClassifier
+0.688119 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + MultinomialNB
+0.688119 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + LogisticRegression
+0.688119 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + AdaBoostClassifier
+0.688119 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + RandomForestClassifier
+0.686651 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + VotingClassifier
+0.685025 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + CV + VotingClassifier
+0.683412 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + DecisionTreeClassifier
+0.683168 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + ExtraTreesClassifier
+0.683168 , Feature/['comment', 'rating', 'sentiScore'] + MultinomialNB
+0.683168 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + AdaBoostClassifier
+0.683168 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + AdaBoostClassifier
+0.683168 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + MultinomialNB
+0.683168 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + AdaBoostClassifier
+0.683168 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + AdaBoostClassifier
+0.681707 , Feature/['stopwords_removal_lemmatization'] + CV + DecisionTreeClassifier
+0.680160 , Feature/['comment'] + CV + DecisionTreeClassifier
+0.678218 , Feature/['stopwords_removal'] + DecisionTreeClassifier
+0.678218 , Feature/['rating', 'length_words'] + AdaBoostClassifier
+0.678218 , Feature/['comment', 'rating', 'sentiScore'] + LogisticRegression
+0.678218 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + DecisionTreeClassifier
+0.678218 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + GradientBoostingClassifier
+0.678218 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + LogisticRegression
+0.678218 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + DecisionTreeClassifier
+0.678218 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + GradientBoostingClassifier
+0.678218 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + AdaBoostClassifier
+0.678218 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + ExtraTreesClassifier
+0.675295 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + DecisionTreeClassifier
+0.673708 , Feature/['lemmatized_comment'] + CV + DecisionTreeClassifier
+0.673267 , Feature/['lemmatized_comment'] + AdaBoostClassifier
+0.673267 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + AdaBoostClassifier
+0.672082 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + CV + VotingClassifier
+0.670456 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + VotingClassifier
+0.668843 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + DecisionTreeClassifier
+0.668317 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + AdaBoostClassifier
+0.668317 , Feature/['comment', 'rating', 'sentiScore'] + AdaBoostClassifier
+0.668317 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + DecisionTreeClassifier
+0.668317 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + AdaBoostClassifier
+0.668317 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + AdaBoostClassifier
+0.663978 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + KNeighborsClassifier
+0.663978 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + KNeighborsClassifier
+0.663913 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + DecisionTreeClassifier
+0.663366 , Feature/['rating', 'length_words'] + RandomForestClassifier
+0.663366 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + DecisionTreeClassifier
+0.660766 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + CV + BernoulliNB
+0.660766 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + CV + BernoulliNB
+0.660766 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + BernoulliNB
+0.660766 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + BernoulliNB
+0.659179 , Feature/['rating', 'length_words'] + CV + GaussianNB
+0.659179 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GaussianNB
+0.658416 , Feature/['rating', 'length_words'] + MultinomialNB
+0.658416 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + GradientBoostingClassifier
+0.658416 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + GradientBoostingClassifier
+0.658416 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + GradientBoostingClassifier
+0.658416 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + GradientBoostingClassifier
+0.657540 , Feature/['rating', 'length_words'] + CV + VotingClassifier
+0.657540 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + VotingClassifier
+0.657501 , Feature/['comment', 'rating', 'sentiScore'] + CV + KNeighborsClassifier
+0.657501 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + KNeighborsClassifier
+0.655822 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + CV + KNeighborsClassifier
+0.655822 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + KNeighborsClassifier
+0.654222 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + CV + LogisticRegression
+0.654222 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LogisticRegression
+0.654209 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + CV + LinearSVC
+0.654209 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LinearSVC
+0.653465 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + MultinomialNB
+0.653465 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + VotingClassifier
+0.653465 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + MultinomialNB
+0.653465 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + MultinomialNB
+0.653465 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + VotingClassifier
+0.653465 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + MultinomialNB
+0.648515 , Feature/['stopwords_removal_lemmatization'] + MultinomialNB
+0.648515 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + MultinomialNB
+0.648515 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + MultinomialNB
+0.647705 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + CV + LogisticRegression
+0.647705 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LogisticRegression
+0.643564 , Feature/['lemmatized_comment'] + MultinomialNB
+0.643564 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + DecisionTreeClassifier
+0.643564 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + DecisionTreeClassifier
+0.643564 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + MultinomialNB
+0.642919 , Feature/['rating', 'length_words'] + CV + LinearSVC
+0.642919 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LinearSVC
+0.638614 , Feature/['comment'] + MultinomialNB
+0.638614 , Feature/['rating', 'length_words'] + GradientBoostingClassifier
+0.638614 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + GaussianNB
+0.638614 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + MultinomialNB
+0.638614 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + RandomForestClassifier
+0.638614 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + GradientBoostingClassifier
+0.638614 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + GaussianNB
+0.633663 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + KNeighborsClassifier
+0.633663 , Feature/['comment', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + KNeighborsClassifier
+0.633663 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + DecisionTreeClassifier
+0.633663 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + DecisionTreeClassifier
+0.633176 , Feature/['rating', 'length_words'] + CV + LogisticRegression
+0.633176 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LogisticRegression
+0.631458 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + CV + LinearSVC
+0.631458 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + LinearSVC
+0.628713 , Feature/['rating', 'length_words'] + ExtraTreesClassifier
+0.628713 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + ExtraTreesClassifier
+0.623762 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + DecisionTreeClassifier
+0.618812 , Feature/['stopwords_removal'] + MultinomialNB
+0.618812 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + KNeighborsClassifier
+0.618812 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + MultinomialNB
+0.618812 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + KNeighborsClassifier
+0.613861 , Feature/['rating', 'length_words'] + DecisionTreeClassifier
+0.613861 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + DecisionTreeClassifier
+0.612012 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + CV + GaussianNB
+0.612012 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GaussianNB
+0.612012 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + CV + GaussianNB
+0.612012 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + GaussianNB
+0.608911 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + VotingClassifier
+0.603960 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + VotingClassifier
+0.595804 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + CV + MultinomialNB
+0.595804 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + MultinomialNB
+0.592512 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + CV + MultinomialNB
+0.592512 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + MultinomialNB
+0.584158 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + LinearSVC
+0.584158 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future'] + KNeighborsClassifier
+0.584158 , Feature/['stopwords_removal_lemmatization', 'rating', 'sentiScore', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + KNeighborsClassifier
+0.584158 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + LinearSVC
+0.579208 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + LinearSVC
+0.579208 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + GaussianNB
+0.579208 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + LinearSVC
+0.579208 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + GaussianNB
+0.564356 , Feature/['comment'] + KNeighborsClassifier
+0.564356 , Feature/['lemmatized_comment'] + KNeighborsClassifier
+0.564356 , Feature/['stopwords_removal'] + KNeighborsClassifier
+0.564356 , Feature/['stopwords_removal_lemmatization'] + KNeighborsClassifier
+0.564356 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + KNeighborsClassifier
+0.564356 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + KNeighborsClassifier
+0.564356 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + KNeighborsClassifier
+0.564356 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + KNeighborsClassifier
+0.559406 , Feature/['rating', 'length_words'] + KNeighborsClassifier
+0.559406 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + KNeighborsClassifier
+0.554455 , Feature/['comment', 'rating', 'sentiScore'] + KNeighborsClassifier
+0.554455 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + KNeighborsClassifier
+0.549505 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future'] + LogisticRegression
+0.549505 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'noun', 'pron', 'verb', 'adj', 'adv'] + LogisticRegression
+0.544554 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + KNeighborsClassifier
+0.544554 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + KNeighborsClassifier
+0.534653 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore'] + LogisticRegression
+0.534653 , Feature/['rating', 'length_words', 'present_simple', 'present_con', 'past', 'future', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + LogisticRegression
+0.532468 , Feature/['rating', 'length_words'] + CV + MultinomialNB
+0.532468 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + MultinomialNB
+0.521099 , Feature/['comment'] + CV + KNeighborsClassifier
+0.521099 , Feature/['lemmatized_comment'] + CV + KNeighborsClassifier
+0.521099 , Feature/['stopwords_removal'] + CV + KNeighborsClassifier
+0.521099 , Feature/['stopwords_removal_lemmatization'] + CV + KNeighborsClassifier
+0.521099 , Feature/['comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + KNeighborsClassifier
+0.521099 , Feature/['lemmatized_comment', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + KNeighborsClassifier
+0.521099 , Feature/['stopwords_removal', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + KNeighborsClassifier
+0.521099 , Feature/['stopwords_removal_lemmatization', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + KNeighborsClassifier
+0.514647 , Feature/['rating', 'length_words'] + CV + BernoulliNB
+0.514647 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + CV + BernoulliNB
+0.495050 , Feature/['rating', 'length_words'] + BernoulliNB
+0.495050 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + BernoulliNB
+0.475248 , Feature/['comment', 'rating', 'sentiScore'] + GradientBoostingClassifier
+0.475248 , Feature/['comment', 'rating', 'sentiScore', 'noun', 'pron', 'verb', 'adj', 'adv'] + GradientBoostingClassifier
+0.465347 , Feature/['rating', 'length_words'] + VotingClassifier
+0.460396 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + VotingClassifier
+0.425743 , Feature/['rating', 'length_words'] + LinearSVC
+0.425743 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + LinearSVC
+0.405941 , Feature/['rating', 'length_words'] + LogisticRegression
+0.405941 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + LogisticRegression
+0.371287 , Feature/['rating', 'length_words'] + GaussianNB
+0.371287 , Feature/['rating', 'length_words', 'noun', 'pron', 'verb', 'adj', 'adv'] + GaussianNB
